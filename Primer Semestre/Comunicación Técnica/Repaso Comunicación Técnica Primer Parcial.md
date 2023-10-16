@@ -41,3 +41,54 @@ Son interferencias que surgen en el proceso comunicativo y lo dificultan.
 - Ruidos Fisicos: El lugar donde se encuentras las personas crea dificultades (Distancia, ruido, etc).
 - Ruidos Administrativos: La forma en que administramos la información a la hora de compartirla puede generar Problemas para entenderla.
 
+## <h2> Funciones del Lenguaje y Niveles de la Lengua
+La función del lenguaje hace referencia al objetivo que se persigue al transmitir información.
+### <h3> Las distintas clases de Funciones son:
+- Función Informativa: Proporcionar Datos objetivos conforme la realidad.
+- Función emotiva: Transmitir estados de animo.
+- Función apelativa: solicitar o convencer.
+- Función metalingüística: El codigo habla de si mismo.
+- Función fática: Probar el canal.
+- Función poética: producir placer estetico.
+
+### <h3> Lenguaje, Lengua, Habla.
+#### <h4> Lenguaje.
+Forma universal que todos los seres humanos tenemos de comunicarnos.
+#### <h4> Lengua.
+Es el codigo que utilizamos, idioma.
+#### <h4> Habla.
+Manera particular de cada individuo de expresarse.
+
+### <h3> Niveles de la Lengua.
+- Nivel Culto: Empleado por gente culta.
+- Nivel vulgar: Gente menos instruida.
+- Nivel coloquial: El utilizado al conversar casualmente.
+- Nivel Literario: Poetico.
+- Nivel Técnico: Terminos especificos del area.
+
+## <h2> El TEXTO
+La unidad minima de información, y de comunicación las palabras se unen para completar un mensaje.
+### <h3> Trama del Texto
+La trama es como se construyen y enlazan las palabras en un texto.
+- Trama Narrativa.
+- Trama Dialogada.
+- Trama Argumentativa.
+- Trama Expositiva.
+- Trama Descriptiva.
+### <h3> Tipología Textual.
+| Tipo de Texto | Intención Comunicativa | Trama |Ejemplos|
+|---------------|------------------------|-------|--------|
+|Texto Informativo(Periodistico)|Transmitir información de hechos de la actualidad|Dialogada,Narrada,Descriptiva,Expositiva|Entrevistas,Cronica,Noticia,etc.|
+|Texto Informativo(Cientifico)| Transmitir información objetiva sobre descubrimientos y avances tecnologicos|Expositiva, descriptiva|Tesis, Textos de divulgación, relato historico|
+|Texto Informativo(expositivo)| Informar sobre ciertos fenomenos, explicando conceptos y definiciones| Expositiva, Descriptiva| Libros Academicos(Matematicas,Ciencias,Lengua),Memorandum,Informe|
+|Literario| Producir placer estetico|Dialogada,Narrativa, descriptiva| Novelas, Cuentos, Fabulas|
+|Argumentativo|Persuadir y convencer|Expositiva,Argumentativa|Propaganda, Textos Publicitarios|horóscopo|
+|Instruccional|Instruir y fomar al receptor|Descriptiva|Manuales,tutoriales,recetas|
+|Instrumental|Organizar y registrar actividades financieras|Descriptiva,Narrativa|Cheques,actas,Pagare|
+|Epistolar|Cualquier Texto para comunicarse entre dos personas|Narrativa,argumentativa|Cartas,Mensajes,esquela|
+|Humoristico|Entretener con efecto comico|Narrativa,Dialogada|Comics,Chistes,grafitis|
+
+## <h2> Textos Argumentativos.
+
+
+
