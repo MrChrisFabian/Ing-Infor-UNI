@@ -89,6 +89,80 @@ La trama es como se construyen y enlazan las palabras en un texto.
 |Humoristico|Entretener con efecto comico|Narrativa,Dialogada|Comics,Chistes,grafitis|
 
 ## <h2> Textos Argumentativos.
+Es un texto que sirve para expresar opiniones y argumentos para defender una idea, intentado persuadira al lector.
 
+### <h3> Caracteristicas de los textos Argumentativos.
+- Finalidad comunicativa, persuadir, convencer.
+- Común en el area Académica.
+- Demostrar,convencer, cambiar de opinión al lector.
+- Estructura: Introducción,Argumentación y conclusión.
+- Usan distintos tipos de Argumentos.
+
+### <h3> Tipos de Argumentos.
+-  Deductivos: De lo general a lo especifico.
+- inductivo: De lo especifico a lo general.
+- abductivo: Plantea premisa a desarrollarse.
+- Razonamiento lógico: Proposición verdadera que lleva a conclusiones verdaderas.
+- Autoridad: Su argumento se basa en la jerarquia.
+- Analogía: Utiliza ejemplos.
+- probabilidad: utiliza estadistica.
+- Afectivos: Recurren a los sentimientos del receptor.
+
+## <h2> Texto Informativo (Expositivo).
+Buscan transmitir información clara sobre un conjunto de temas generales o especificos.
+
+### <h3> Caracteristicas.
+- Redaccion objetiva.
+- En 3era Persona.
+- Lenguaje claro y preciso.
+- Introducción, Desarrollo, Conclusión.
+
+### <h3> Tipos de textos Informativo(Expositivo).
+#### <h4> Carta Formal.
+- Transmite información a ser tratada de forma seria.
+- Suele dirigirse a una persona desconocida para el escritor.
+- Tono Respetuoso y educado.
+##### <h5> Estructura de la Carta Formal.
+- Fecha y lugar Donde se Escribe.
+- Encabezado.
+- Saludo formal.
+- Introducción.
+- Cuerpo.
+- Despedida.
+- Firma.
+#### <h4> Memorandum.
+Carta formal mas corta mas usada en empresas.
+##### <h5>Estructura.
+- Título.
+- Encabezado.
+- Saludo.
+- Cuerpo.
+- Despedida.
+- Firma.
+- Fecha.
+#### <h4> Informe.
+En ambitos cientificos para mostrar una situación concreta.
+##### <h5> Estructura.
+- Fecha.
+- Título.
+- Cuerpo.
+- Firma.
+#### <h4> Noticia.
+Un Texto periodistico que narra una hecho real.
+##### <h5> Trata de Responder estas Preguntas.
+- ¿Qué Ocurrió?
+- ¿Cuándo Ocurrió?
+- ¿Dónde Ocurrió?
+- ¿Quién o quiénes fueron los involucrados?
+- ¿Cómo ocurrió?
+- ¿Por qué ocurrió?
+##### <h5> Estructura
+- Titular.
+- Subtítulo.
+- Entradilla.
+- Cuerpo.
+- Cierre.
+
+###### <h6> Hecho por Christopher Fabián Mendoza López para el examen Parcial de Comunicación Técnica 1 en la fecha 16/Oct/23.
 
 
