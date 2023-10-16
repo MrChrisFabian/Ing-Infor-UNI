@@ -15,6 +15,12 @@ La comunicacion es el proceso activo de transferencia de datos normalmente recí
 - Comunicación Mixta: Es un conjunto de las dos antes mencionadas para lograr un mensaje mas complejo, se utiliza por ejemplo en comics.
 - Comunicación escrita: Transmitir información atraves de un medio fisico apoyandose de simbolos y  caracteres de un determinado codigo.
 
+### <h3> Funciones de la comunicación.
+- Informativa: Compartir Información Objetiva.
+- Expresiva: Compartir sentimientos.
+- Formativa: Capacitar o instruir.
+- Persuasiva: Convencer
+- Entretenimiento: Por el placer de Comunicarse.
 ### <h3> Llevar a cabo la Comunicación.
 Para que se lleve a cabo una comunicación exitosa necesitamos disponer de todos los elementos antes citados de forma optima, los emisores y receptores deben poder intercambiar roles en cuanto lo necesiten para mantener la comunicación de forma reciproca, debe existir un espacio y tiempo determinados para concretar la comunicación, completando el contexto de esta.
 
@@ -29,4 +35,9 @@ Son Distintos tipos de obstaculos que pueden surgir como dificultades para lleva
 ### <h3>Ruidos de la comunicación.
 Son interferencias que surgen en el proceso comunicativo y lo dificultan.
 #### <h4> Tipos de Ruidos.
-- Ruidos 
+- Ruidos Semanticos: Diferir en el significado de una palabra o directamente no coincidir en el codigo hace casi imposible la correcta comunicación.
+- Ruidos psicológicos: Tiene que ver con en el estado de animo del Emisor y del Receptor haciendoles mas o menos capaces de lograr una comunicación acertiva.
+- Ruidos Fisiologicos: Problemas fisiologicos ya sean medicas diagnosticadas o transitorias.
+- Ruidos Fisicos: El lugar donde se encuentras las personas crea dificultades (Distancia, ruido, etc).
+- Ruidos Administrativos: La forma en que administramos la información a la hora de compartirla puede generar Problemas para entenderla.
+
