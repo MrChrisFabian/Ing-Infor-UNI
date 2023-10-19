@@ -8,7 +8,7 @@
 > <p style="text-align: right ; font-style: italic">Kenneth Sereno y David C. Mortensen</p>
 
 La comunicación implica la interrelación entre dos o mas personas.
-- Importancia de la comunicación
+- Importancia de la comvunicación
 	La comunicación esta ligada al <u>aspecto biológico</u> y a la supervivencia de los seres vivos.
 	Sin la comunicación, la vida de los individuos estaría en peligro.
 	La comunicación es una trasferencia de información por medio de signos para satisfacer nuestras necesidades. 
